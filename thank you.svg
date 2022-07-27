@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg191"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="thank you.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview193"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.43295455"
+     inkscape:cx="368.39895"
+     inkscape:cy="658.26772"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs188">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1345">
+      <stop
+         style="stop-color:#c7c7c7;stop-opacity:0.54545456;"
+         offset="0"
+         id="stop1341" />
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:0.49803922;"
+         offset="0.5"
+         id="stop1361" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1058">
+      <stop
+         style="stop-color:#efff24;stop-opacity:1;"
+         offset="0"
+         id="stop1054" />
+      <stop
+         style="stop-color:#96e786;stop-opacity:1;"
+         offset="0.45348707"
+         id="stop1186" />
+      <stop
+         style="stop-color:#3b7c72;stop-opacity:1;"
+         offset="1"
+         id="stop1056" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1027"
+       x="-0.051009603"
+       y="-0.060393443"
+       width="1.1020192"
+       height="1.1207869">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.2601275"
+         id="feGaussianBlur1029" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1058"
+       id="linearGradient1060"
+       x1="59.300835"
+       y1="122.5634"
+       x2="59.370018"
+       y2="253.42535"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1314"
+       x="-0.019014653"
+       y="-0.12033872"
+       width="1.0380293"
+       height="1.2406774">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.3522552"
+         id="feGaussianBlur1316" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1345"
+       id="linearGradient1347"
+       x1="-19.911096"
+       y1="147.19239"
+       x2="150.76846"
+       y2="147.19239"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.5215269,4.0254202)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.962791;mix-blend-mode:normal;fill:#2d2d04;fill-opacity:0.862637;stroke-width:0.264999;filter:url(#filter1027)"
+       id="rect247"
+       width="153.38889"
+       height="129.55556"
+       x="14.666667"
+       y="113.05556"
+       transform="matrix(1,0,-0.17995862,0.71381294,25.891531,32.560267)" />
+    <g
+       id="g1613">
+      <rect
+         style="fill:url(#linearGradient1060);fill-opacity:1;stroke-width:0.270841"
+         id="rect1025"
+         width="153.38889"
+         height="135.33041"
+         x="-12.741093"
+         y="118.09495"
+         transform="matrix(1,0,0.28900459,0.95732771,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.7428px;line-height:5;font-family:Algerian;-inkscape-font-specification:'Algerian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.509194;filter:url(#filter1314);opacity:0.92857143"
+         x="-22.750097"
+         y="163.54073"
+         id="text1250"
+         transform="matrix(0.87827348,0,0.40787601,1.1385975,0,0)"
+         inkscape:label="text1250"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:31.7428px;font-family:Algerian;-inkscape-font-specification:'Algerian Extra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.509194;fill:#000000;fill-opacity:1"
+           x="-22.750097"
+           y="163.54073"
+           id="tspan1302">Thank You</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.7428px;line-height:5;font-family:Algerian;-inkscape-font-specification:'Algerian, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;mix-blend-mode:darken;fill:#4d091c;fill-opacity:1;stroke:url(#linearGradient1347);stroke-width:0.509194"
+         x="-20.68865"
+         y="164.34581"
+         id="text1312"
+         transform="matrix(0.87827348,0,0.40787601,1.1385975,0,0)"
+         inkscape:label="text1250"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:extra-condensed;font-size:31.7428px;font-family:Algerian;-inkscape-font-specification:'Algerian Extra-Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4d091c;fill-opacity:1;stroke:url(#linearGradient1347);stroke-width:0.509194"
+           x="-20.68865"
+           y="164.34581"
+           id="tspan1310">Thank You</tspan></text>
+    </g>
+  </g>
+</svg>
